@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "description": "webpack loader",
+  "name": "countwebpackplugin",
+  "devDependencies": {
+    "webpack-defaults": "^4.0.0"
+  }
+}

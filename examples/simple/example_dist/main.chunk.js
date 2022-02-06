@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=()=>System.import("./lazy-module");setTimeout((()=>{o.then((o=>{console.log(o)}))}),300),console.log("foo")})();
